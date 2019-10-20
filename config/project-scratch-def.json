@@ -1,9 +1,11 @@
 {
     "orgName": "GIFter",
     "edition": "Developer",
-    "settings" : {
-        "orgPreferenceSettings" : {
-          "s1EncryptedStoragePref2" : false
+    "settings": {
+        "orgPreferenceSettings": {
+            "s1DesktopEnabled": true,
+            "chatterEnabled": true,
+            "s1EncryptedStoragePref2": false
         }
     }
 }
